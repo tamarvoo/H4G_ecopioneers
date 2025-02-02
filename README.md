@@ -1,6 +1,6 @@
 # ECO ENHANCE PLATFORM
 
-![EcoHance Banner](ecohance-banner.png)
+![EcoHance Banner](front_page.png)
 
 In an era where ecological sustainability and biodiversity are essential, one of the challenges is persuading landowners to dedicate their land towards biodiversity improvements. Simultaneously, organizations across are in pursuit of investment opportunities that allow them to offset their greenhouse gas emissions and mitigate their biodiversity impacts.
 
